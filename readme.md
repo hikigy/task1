@@ -14,9 +14,9 @@
 
 ##   01 hello move  
 - [] Sui cli version:sui 1.34.0-c23f6057c8d6
-- [] Sui钱包截图: ![Sui钱包截图](https://github.com/hikigy/task1/blob/main/sui%20%E9%92%B1%E5%8C%85.png)
+- [] Sui钱包截图: ![Sui钱包截图]https://github.com/hikigy/task1/blob/main/sui%20%E9%92%B1%E5%8C%85.png
 - [] package id: 0x48ed44661898f06e1f41122e45f50559adac16f6f4f1588d83d3b788b60629e5
-- [] package id 在 scan上的查看截图:![Scan截图](https://github.com/hikigy/task1/blob/main/scan%E6%88%AA%E5%9B%BE.png)
+- [] package id 在 scan上的查看截图:![Scan截图]https://github.com/hikigy/task1/blob/main/scan%E6%88%AA%E5%9B%BE.png
 
 ##   02 move coin
 - [] My Coin package id : 
